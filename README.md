@@ -1,6 +1,6 @@
 
 # Memory Game
-Este Projeto foi feito em Aula do curso B7web.
+Este Projeto foi feito por Lucas D Garpelli.
 
 # Available Scripts
 In the project directory, you can run:
